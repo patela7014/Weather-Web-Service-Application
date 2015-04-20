@@ -1,0 +1,5 @@
+c:\users\ankur\documents\visual studio 2010\Projects\WeatherServiceApplication\WeatherServiceApplication\bin\WeatherServiceApplication.dll
+c:\users\ankur\documents\visual studio 2010\Projects\WeatherServiceApplication\WeatherServiceApplication\bin\WeatherServiceApplication.pdb
+c:\users\ankur\documents\visual studio 2010\Projects\WeatherServiceApplication\WeatherServiceApplication\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ankur\documents\visual studio 2010\Projects\WeatherServiceApplication\WeatherServiceApplication\obj\Debug\WeatherServiceApplication.dll
+c:\users\ankur\documents\visual studio 2010\Projects\WeatherServiceApplication\WeatherServiceApplication\obj\Debug\WeatherServiceApplication.pdb
